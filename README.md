@@ -1,7 +1,7 @@
 # express-neo4j-restapi
 
 # Installation
-  - git clone https://github.com/shouvick/nodejs-rabbitmq.git
+  - git clone https://github.com/shouvick/express-neo4j-restapi.git
   - change neo4j database credentials in env
   - npm install
   - npm start [command]
